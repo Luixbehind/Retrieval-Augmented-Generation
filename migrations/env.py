@@ -5,6 +5,7 @@ from logging.config import fileConfig
 from pathlib import Path
 
 from alembic import context
+from alembic_utils.replaceable_entity import register_entities
 from sqlalchemy import engine_from_config, pool
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -15,6 +16,9 @@ if str(SRC_DIR) not in sys.path:
 from app.core.config import settings
 from app.core.database import Base
 import app.models
+from app.models.triggers import DB_TRIGGER_ENTITIES
+
+register_entities(DB_TRIGGER_ENTITIES)
 
 config = context.config
 if config.config_file_name is not None:
