@@ -8,60 +8,33 @@ jobs:
   test:
     runs-on: ubuntu-latest
 
-    services:
-      postgres:
-        image: postgres:16-alpine
-        env:
-          POSTGRES_DB: rag
-          POSTGRES_USER: postgres
-          POSTGRES_PASSWORD: postgres
-        ports:
-          - 5432:5432
-        options: >-
-          --health-cmd "pg_isready -U postgres -d rag"
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 5
-
-    env:
-      DATABASE_URL: postgresql+psycopg://postgres:postgres@localhost:5432/rag
-      APP_NAME: "RAG API"
-      API_V1_PREFIX: /api/v1
-      HOST: 0.0.0.0
-      PORT: 8000
-      RELOAD: "false"
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install Poetry
-        run: python -m pip install --upgrade pip poetry
-
-      - name: Install dependencies
-        run: poetry install --no-interaction
-
-      - name: Run migrations
-        run: poetry run alembic upgrade head
-
-      - name: Detect tests
-        id: detect_tests
+      - name: Prepare environment file
+        env:
+          POSTGRES_DB: ${{ vars.POSTGRES_DB }}
+          POSTGRES_USER: ${{ vars.POSTGRES_USER }}
+          POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD }}
+          DATABASE_URL_DOCKER: ${{ secrets.DATABASE_URL_DOCKER }}
+          APP_NAME: ${{ vars.APP_NAME }}
+          API_V1_PREFIX: ${{ vars.API_V1_PREFIX }}
+          HOST: ${{ vars.HOST }}
+          PORT: ${{ vars.PORT }}
+          RELOAD: ${{ vars.RELOAD }}
         run: |
-          if find tests -type f \( -name "test_*.py" -o -name "*_test.py" \) | grep -q .; then
-            echo "has_tests=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "has_tests=false" >> "$GITHUB_OUTPUT"
-          fi
+          cat > .env <<EOF
+          POSTGRES_DB=${POSTGRES_DB:-rag}
+          POSTGRES_USER=${POSTGRES_USER:-postgres}
+          POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+          DATABASE_URL_DOCKER=${DATABASE_URL_DOCKER:-postgresql+psycopg://postgres:postgres@db:5432/rag}
+          APP_NAME=${APP_NAME:-RAG API}
+          API_V1_PREFIX=${API_V1_PREFIX:-/api/v1}
+          HOST=${HOST:-0.0.0.0}
+          PORT=${PORT:-8000}
+          RELOAD=${RELOAD:-false}
+          EOF
 
-      - name: Run tests
-        if: steps.detect_tests.outputs.has_tests == 'true'
-        run: poetry run pytest
-
-      - name: Skip tests (no files found)
-        if: steps.detect_tests.outputs.has_tests != 'true'
-        run: echo "No test files found in tests/. Skipping pytest."
+      - name: Start stack
+        run: docker compose up --build -d
