@@ -1,0 +1,54 @@
+{
+  "_readme": "Golden dataset para avaliação RAGAS do fluxo de compliance LGPD. Uso: 1) gerar o relatório via POST /api/v1/lgpd-compliance/analyze com ddl_schema.sql (ou .json) + termo_compromisso.pdf desta pasta, vinculado a uma knowledge_base; 2) aguardar processing_status = COMPLETED (o relatório vira a fonte RAG da base); 3) cadastrar cada item de 'golden_questions' abaixo via POST /api/v1/knowledge-bases/{knowledge_base_id}/golden-questions (um POST por item, campos 'question' e 'reference_answer'); 4) disparar POST /api/v1/knowledge-bases/{knowledge_base_id}/evaluations/runs para rodar o RAGAS. As reference_answer foram escritas a partir das inconsistências propositalmente introduzidas entre ddl_schema.sql e termo_compromisso.pdf (cenário SaudeConecta) e servem como ground truth para faithfulness/context_precision/context_recall.",
+  "knowledge_base_hint": "SaudeConecta - telemedicina (data/production_scenario)",
+  "golden_questions": [
+    {
+      "question": "O termo de compromisso afirma que o tratamento de dados de saúde depende de consentimento específico e destacado do titular. O schema do banco de dados possui um mecanismo para registrar esse consentimento específico para dados de saúde?",
+      "reference_answer": "Não. A tabela consent_records possui um enum consent_scope_enum com apenas os escopos TERMS_OF_USE, MARKETING, DATA_SHARING_PARTNERS e TELEMETRY. Não existe um escopo dedicado a dados de saúde (patient_health_profiles / consultation_records), o que contradiz a afirmação do termo de que há consentimento específico e destacado registrado para o tratamento desses dados sensíveis, conforme exige o Art. 11, I da LGPD."
+    },
+    {
+      "question": "O termo de compromisso declara que a empresa não compartilha dados de saúde ou dados cadastrais com parceiros de publicidade. Isso é confirmado pelo schema do banco de dados?",
+      "reference_answer": "Não é confirmado. A tabela third_party_data_shares registra compartilhamentos com o parceiro 'AdInsight Analytics' incluindo as categorias de dado email, cpf e chronic_conditions para a finalidade 'ad_targeting', sem consentimento específico correspondente em consent_records. Isso contradiz diretamente a declaração do termo de que não há compartilhamento com parceiros de publicidade."
+    },
+    {
+      "question": "O termo de compromisso afirma que o CPF dos titulares é armazenado com criptografia em nível de coluna no banco de dados de produção. O schema confirma essa medida de segurança?",
+      "reference_answer": "Não. A coluna users.cpf é do tipo VARCHAR(11) em texto plano, sem qualquer mecanismo de criptografia em nível de coluna aplicado, conforme indicado no próprio comentário do schema ('CPF armazenado em texto plano, sem mascaramento nem tokenização'). Há uma divergência entre o que o termo declara e o que o schema efetivamente implementa."
+    },
+    {
+      "question": "Quais dados são classificados como dados pessoais sensíveis nos termos do Art. 5º, II da LGPD neste sistema, segundo a análise do schema?",
+      "reference_answer": "Os dados de saúde armazenados nas tabelas patient_health_profiles (tipo sanguíneo, condições crônicas, medicações em uso, alergias, notas de saúde mental) e consultation_records (sintomas, diagnóstico, medicações prescritas, códigos CID-10, gravação e transcrição da consulta) são dados pessoais sensíveis, pois se enquadram na categoria de dado sobre saúde prevista no Art. 5º, II da LGPD."
+    },
+    {
+      "question": "Existe uma coluna mother_full_name na tabela users. O termo de compromisso menciona a coleta desse dado e sua finalidade específica?",
+      "reference_answer": "Não. O schema comenta que mother_full_name é coletado para validação de identidade no primeiro acesso, mas o termo de compromisso, na seção de dados coletados, não menciona a coleta do nome da mãe nem indica sua finalidade específica, configurando uma coleta de dado pessoal sem previsão correspondente no documento de transparência apresentado ao titular."
+    },
+    {
+      "question": "O termo de compromisso afirma que gravações de áudio/vídeo das consultas são eliminadas de forma segura ao final do período de retenção, mediante rotina periódica de expurgo. O schema evidencia a existência dessa rotina?",
+      "reference_answer": "Não. O schema não possui nenhuma coluna de expiração ou retenção (como retention_until) em consultation_records nem em nenhuma outra tabela, e o comentário do schema indica explicitamente que 'não há política de expurgo automatizada configurada' para recording_url e transcription_text, contradizendo a afirmação do termo de que existe uma rotina periódica de expurgo."
+    },
+    {
+      "question": "A transcrição das consultas (transcription_text) é gerada por um serviço de terceiro. O termo de compromisso trata desse subprocessador de forma específica?",
+      "reference_answer": "O schema indica, em comentário, que a transcrição é gerada por um serviço de terceiro (Whisper API), caracterizando um subprocessador externo que recebe dado de saúde. O termo de compromisso menciona de forma genérica um 'fornecedor de infraestrutura de áudio/nuvem' sob contrato de confidencialidade, sem nomear o subprocessador nem detalhar as instruções de tratamento específicas para dado sensível de saúde enviado a esse terceiro."
+    },
+    {
+      "question": "Em relação a dados de pagamento, o schema segue boas práticas de minimização de dados?",
+      "reference_answer": "Sim. A tabela payments armazena apenas os últimos 4 dígitos do cartão (card_last_four) e a bandeira (card_brand), sem persistir o número completo do cartão (PAN) nem o código de segurança (CVV), o que está alinhado com boas práticas de minimização de dados e reduz o escopo de conformidade PCI-DSS do banco de dados da aplicação."
+    },
+    {
+      "question": "O campo marketing_opt_in da tabela users está configurado como opt-in real (default false) ou o usuário já nasce com o consentimento marcado?",
+      "reference_answer": "O campo marketing_opt_in tem valor padrão (default) false, ou seja, o usuário não é automaticamente inscrito em comunicações de marketing — é necessária uma ação explícita para habilitar o opt-in, o que está em conformidade com o princípio de consentimento livre e inequívoco previsto na LGPD."
+    },
+    {
+      "question": "O sistema possui um mecanismo para atender às solicitações de titulares previstas no Art. 18 da LGPD, como acesso, correção e eliminação de dados?",
+      "reference_answer": "Sim. A tabela data_subject_requests registra solicitações de titulares com request_type, status, data da solicitação (requested_at), data de resolução (resolved_at) e notas de resolução, evidenciando um fluxo estruturado para atendimento às solicitações previstas no Art. 18 da LGPD, em conformidade com o que o termo de compromisso descreve na seção de direitos do titular."
+    },
+    {
+      "question": "Existe trilha de auditoria (audit log) para acessos a dados sensíveis no schema analisado?",
+      "reference_answer": "Sim. A tabela audit_logs registra o usuário que executou a ação (actor_user_id), a ação realizada, a tabela e o registro afetados (entity_table, entity_id), o endereço IP e o timestamp, funcionando como trilha de auditoria de acesso a dados, inclusive dados sensíveis armazenados em outras tabelas do sistema."
+    },
+    {
+      "question": "O prazo de retenção de prontuários eletrônicos declarado no termo de compromisso é consistente com alguma coluna ou constraint do schema do banco de dados?",
+      "reference_answer": "O termo de compromisso declara um prazo mínimo de retenção de 20 anos para prontuários eletrônicos (consultation_records), mas o schema não implementa nenhuma coluna, constraint ou mecanismo técnico (como retention_until ou rotina de expurgo) que garanta ou controle esse prazo, ficando a política de retenção inteiramente dependente de processos externos ao banco de dados."
+    }
+  ]
+}

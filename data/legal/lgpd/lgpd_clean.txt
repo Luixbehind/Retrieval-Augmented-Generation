@@ -1,0 +1,1238 @@
+Presidncia da Repblica
+Secretaria-Geral
+Subchefia para Assuntos Jurdicos
+LEI N 13.709, DE 14 DE AGOSTO DE 2018
+Texto compilado
+Mensagem de veto
+Vigncia
+Lei Geral de Proteo de Dados Pessoais (LGPD).
+(Redao dada 
+ pela Lei n 13.853, de 2019)
+Vigncia
+O PRESIDENTE DA REPBLICA
+Fao saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+CAPTULO I
+DISPOSIES PRELIMINARES
+Art. 1 Esta Lei dispe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurdica de direito pblico ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+Pargrafo nico. As normas gerais contidas nesta Lei so de interesse 
+ nacional e devem ser observadas pela Unio, Estados, Distrito Federal e 
+ Municpios.
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+Art. 2 A disciplina da proteo de dados pessoais tem como fundamentos:
+I - o respeito privacidade;
+II - a autodeterminao informativa;
+III - a liberdade de expresso, de informao, de comunicao e de opinio;
+IV - a inviolabilidade da intimidade, da honra e da imagem;
+V - o desenvolvimento econmico e tecnolgico e a inovao;
+VI - a livre iniciativa, a livre concorrncia e a defesa do consumidor; e
+VII - os direitos humanos, o livre desenvolvimento da personalidade, a dignidade e o exerccio da cidadania pelas pessoas naturais.
+Art. 3 Esta Lei aplica-se a qualquer operao de tratamento realizada por pessoa natural ou por pessoa jurdica de direito pblico ou privado, independentemente do meio, do pas de sua sede ou do pas onde estejam localizados os dados, desde que:
+I - a operao de tratamento seja realizada no territrio nacional;
+II - a atividade de tratamento tenha por objetivo a oferta ou o 
+ fornecimento de bens ou servios ou o tratamento de dados de indivduos 
+ localizados no territrio nacional; ou
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+III - os dados pessoais objeto do tratamento tenham sido coletados no territrio nacional.
+1 Consideram-se coletados no territrio nacional os dados pessoais cujo titular nele se encontre no momento da coleta.
+2 Excetua-se do disposto no inciso I deste artigo o tratamento de dados previsto no inciso IV do
+caput
+do art. 4 desta Lei.
+Art. 4 Esta Lei no se aplica ao tratamento de dados pessoais:
+I - realizado por pessoa natural para fins exclusivamente particulares e no econmicos;
+II - realizado para fins exclusivamente:
+a) jornalstico e artsticos; ou
+b) acadmicos, aplicando-se a esta hiptese os arts. 7 e 11 desta Lei;
+III - realizado para fins exclusivos de:
+a) segurana pblica;
+b) defesa nacional;
+c) segurana do Estado; ou
+d) atividades de investigao e represso de infraes penais; ou
+IV - provenientes de fora do territrio nacional e que no sejam objeto de comunicao, uso compartilhado de dados com agentes de tratamento brasileiros ou objeto de transferncia internacional de dados com outro pas que no o de provenincia, desde que o pas de provenincia proporcione grau de proteo de dados pessoais adequado ao previsto nesta Lei.
+1 O tratamento de dados pessoais previsto no inciso III ser regido por legislao especfica, que dever prever medidas proporcionais e estritamente necessrias ao atendimento do interesse pblico, observados o devido processo legal, os princpios gerais de proteo e os direitos do titular previstos nesta Lei.
+2 vedado o tratamento dos dados a que se refere o inciso III do
+caput
+deste artigo por pessoa de direito privado, exceto em procedimentos sob tutela de pessoa jurdica de direito pblico, que sero objeto de informe especfico autoridade nacional e que devero observar a limitao imposta no 4 deste artigo.
+3 A autoridade nacional emitir opinies tcnicas ou recomendaes referentes s excees previstas no inciso III do
+caput
+deste artigo e dever solicitar aos responsveis relatrios de impacto proteo de dados pessoais.
+4 Em nenhum caso a totalidade dos dados pessoais de banco de dados de 
+ que trata o inciso III do
+caput
+deste artigo poder ser tratada por pessoa de 
+ direito privado, salvo por aquela que possua capital integralmente 
+ constitudo pelo poder pblico.
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+Art. 5 Para os fins desta Lei, considera-se:
+I - dado pessoal: informao relacionada a pessoa natural identificada ou identificvel;
+II - dado pessoal sensvel: dado pessoal sobre origem racial ou tnica, convico religiosa, opinio poltica, filiao a sindicato ou a organizao de carter religioso, filosfico ou poltico, dado referente sade ou vida sexual, dado gentico ou biomtrico, quando vinculado a uma pessoa natural;
+III - dado anonimizado: dado relativo a titular que no possa ser identificado, considerando a utilizao de meios tcnicos razoveis e disponveis na ocasio de seu tratamento;
+IV - banco de dados: conjunto estruturado de dados pessoais, estabelecido em um ou em vrios locais, em suporte eletrnico ou fsico;
+V - titular: pessoa natural a quem se referem os dados pessoais que so objeto de tratamento;
+VI - controlador: pessoa natural ou jurdica, de direito pblico ou privado, a quem competem as decises referentes ao tratamento de dados pessoais;
+VII - operador: pessoa natural ou jurdica, de direito pblico ou privado, que realiza o tratamento de dados pessoais em nome do controlador;
+VIII - encarregado: pessoa indicada pelo controlador 
+ e operador para atuar como canal de comunicao entre o controlador, os 
+ titulares dos dados e a Agncia Nacional de Proteo de Dados
+(ANPD);
+(Redao dada pela 
+ Lei n 15.352, de 2026)
+IX - agentes de tratamento: o controlador e o operador;
+X - tratamento: toda operao realizada com dados pessoais, como as que se referem a coleta, produo, recepo, classificao, utilizao, acesso, reproduo, transmisso, distribuio, processamento, arquivamento, armazenamento, eliminao, avaliao ou controle da informao, modificao, comunicao, transferncia, difuso ou extrao;
+XI - anonimizao: utilizao de meios tcnicos razoveis e disponveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associao, direta ou indireta, a um indivduo;
+XII - consentimento: manifestao livre, informada e inequvoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada;
+XIII - bloqueio: suspenso temporria de qualquer operao de tratamento, mediante guarda do dado pessoal ou do banco de dados;
+XIV - eliminao: excluso de dado ou de conjunto de dados armazenados em banco de dados, independentemente do procedimento empregado;
+XV - transferncia internacional de dados: transferncia de dados pessoais para pas estrangeiro ou organismo internacional do qual o pas seja membro;
+XVI - uso compartilhado de dados: comunicao, difuso, transferncia internacional, interconexo de dados pessoais ou tratamento compartilhado de bancos de dados pessoais por rgos e entidades pblicos no cumprimento de suas competncias legais, ou entre esses e entes privados, reciprocamente, com autorizao especfica, para uma ou mais modalidades de tratamento permitidas por esses entes pblicos, ou entre entes privados;
+XVII - relatrio de impacto proteo de dados pessoais: documentao do controlador que contm a descrio dos processos de tratamento de dados pessoais que podem gerar riscos s liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigao de risco;
+XVIII - rgo de pesquisa: rgo ou entidade da administrao pblica 
+ direta ou indireta ou pessoa jurdica de direito privado sem fins 
+ lucrativos legalmente constituda sob as leis brasileiras, com sede e 
+ foro no Pas, que inclua em sua misso institucional ou em seu objetivo 
+ social ou estatutrio a pesquisa bsica ou aplicada de carter 
+ histrico, cientfico, tecnolgico ou estatstico; e
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+XIX - autoridade nacional: entidade da 
+ administrao pblica responsvel por zelar, implementar
+e
+fiscalizar
+o
+cumprimento
+desta
+Lei
+em todo o territrio nacional.
+(Redao dada 
+ pela Lei n 15.352, de 2026)
+Art. 6 As atividades de tratamento de dados pessoais devero observar a boa-f e os seguintes princpios:
+I - finalidade: realizao do tratamento para propsitos legtimos, especficos, explcitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatvel com essas finalidades;
+II - adequao: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento;
+III - necessidade: limitao do tratamento ao mnimo necessrio para a realizao de suas finalidades, com abrangncia dos dados pertinentes, proporcionais e no excessivos em relao s finalidades do tratamento de dados;
+IV - livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a durao do tratamento, bem como sobre a integralidade de seus dados pessoais;
+V - qualidade dos dados: garantia, aos titulares, de exatido, clareza, relevncia e atualizao dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento;
+VI - transparncia: garantia, aos titulares, de informaes claras, precisas e facilmente acessveis sobre a realizao do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;
+VII - segurana: utilizao de medidas tcnicas e administrativas aptas a proteger os dados pessoais de acessos no autorizados e de situaes acidentais ou ilcitas de destruio, perda, alterao, comunicao ou difuso;
+VIII - preveno: adoo de medidas para prevenir a ocorrncia de danos em virtude do tratamento de dados pessoais;
+IX - no discriminao: impossibilidade de realizao do tratamento para fins discriminatrios ilcitos ou abusivos;
+X - responsabilizao e prestao de contas: demonstrao, pelo agente, da adoo de medidas eficazes e capazes de comprovar a observncia e o cumprimento das normas de proteo de dados pessoais e, inclusive, da eficcia dessas medidas.
+CAPTULO II
+DO TRATAMENTO DE DADOS PESSOAIS
+Seo I
+Dos Requisitos para o Tratamento de Dados Pessoais
+Art. 7 O tratamento de dados pessoais somente poder ser realizado nas seguintes hipteses:
+I - mediante o fornecimento de consentimento pelo titular;
+II - para o cumprimento de obrigao legal ou regulatria pelo controlador;
+III - pela administrao pblica, para o tratamento e uso compartilhado de dados necessrios execuo de polticas pblicas previstas em leis e regulamentos ou respaldadas em contratos, convnios ou instrumentos congneres, observadas as disposies do Captulo IV desta Lei;
+IV - para a realizao de estudos por rgo de pesquisa, garantida, sempre que possvel, a anonimizao dos dados pessoais;
+V - quando necessrio para a execuo de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o titular, a pedido do titular dos dados;
+VI - para o exerccio regular de direitos em processo judicial, administrativo ou arbitral, esse ltimo nos termos da
+Lei n 9.307, de 23 de setembro de 1996 (Lei de Arbitragem)
+;
+VII - para a proteo da vida ou da incolumidade fsica do titular ou de terceiro;
+VIII - para a tutela da sade, exclusivamente, em procedimento realizado 
+ por profissionais de sade, servios de sade ou autoridade sanitria;
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+IX - quando necessrio para atender aos interesses legtimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteo dos dados pessoais; ou
+X - para a proteo do crdito, inclusive quanto ao disposto na legislao pertinente.
+1
+(Revogado)
+.
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+2
+(Revogado)
+.
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+3 O tratamento de dados pessoais cujo acesso pblico deve considerar a finalidade, a boa-f e o interesse pblico que justificaram sua disponibilizao.
+4 dispensada a exigncia do consentimento previsto no
+caput
+deste artigo para os dados tornados manifestamente pblicos pelo titular, resguardados os direitos do titular e os princpios previstos nesta Lei.
+5 O controlador que obteve o consentimento referido no inciso I do
+caput
+deste artigo que necessitar comunicar ou compartilhar dados pessoais com outros controladores dever obter consentimento especfico do titular para esse fim, ressalvadas as hipteses de dispensa do consentimento previstas nesta Lei.
+6 A eventual dispensa da exigncia do consentimento no desobriga os agentes de tratamento das demais obrigaes previstas nesta Lei, especialmente da observncia dos princpios gerais e da garantia dos direitos do titular.
+7 O tratamento posterior dos dados pessoais a que se referem os 3 
+ e 4 deste artigo poder ser realizado para novas finalidades, desde que 
+ observados os propsitos legtimos e especficos para o novo tratamento e a 
+ preservao dos direitos do titular, assim como os fundamentos e os 
+ princpios previstos nesta Lei.
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+Art. 8 O consentimento previsto no inciso I do art. 7 desta Lei dever ser fornecido por escrito ou por outro meio que demonstre a manifestao de vontade do titular.
+1 Caso o consentimento seja fornecido por escrito, esse dever constar de clusula destacada das demais clusulas contratuais.
+2 Cabe ao controlador o nus da prova de que o consentimento foi obtido em conformidade com o disposto nesta Lei.
+3 vedado o tratamento de dados pessoais mediante vcio de consentimento.
+4 O consentimento dever referir-se a finalidades determinadas, e as autorizaes genricas para o tratamento de dados pessoais sero nulas.
+5 O consentimento pode ser revogado a qualquer momento mediante manifestao expressa do titular, por procedimento gratuito e facilitado, ratificados os tratamentos realizados sob amparo do consentimento anteriormente manifestado enquanto no houver requerimento de eliminao, nos termos do inciso VI do
+caput
+do art. 18 desta Lei.
+6 Em caso de alterao de informao referida nos incisos I, II, III ou V do art. 9 desta Lei, o controlador dever informar ao titular, com destaque de forma especfica do teor das alteraes, podendo o titular, nos casos em que o seu consentimento exigido, revog-lo caso discorde da alterao.
+Art. 9 O titular tem direito ao acesso facilitado s informaes sobre o tratamento de seus dados, que devero ser disponibilizadas de forma clara, adequada e ostensiva acerca de, entre outras caractersticas previstas em regulamentao para o atendimento do princpio do livre acesso:
+I - finalidade especfica do tratamento;
+II - forma e durao do tratamento, observados os segredos comercial e industrial;
+III - identificao do controlador;
+IV - informaes de contato do controlador;
+V - informaes acerca do uso compartilhado de dados pelo controlador e a finalidade;
+VI - responsabilidades dos agentes que realizaro o tratamento; e
+VII - direitos do titular, com meno explcita aos direitos contidos no art. 18 desta Lei.
+1 Na hiptese em que o consentimento requerido, esse ser considerado nulo caso as informaes fornecidas ao titular tenham contedo enganoso ou abusivo ou no tenham sido apresentadas previamente com transparncia, de forma clara e inequvoca.
+2 Na hiptese em que o consentimento requerido, se houver mudanas da finalidade para o tratamento de dados pessoais no compatveis com o consentimento original, o controlador dever informar previamente o titular sobre as mudanas de finalidade, podendo o titular revogar o consentimento, caso discorde das alteraes.
+3 Quando o tratamento de dados pessoais for condio para o fornecimento de produto ou de servio ou para o exerccio de direito, o titular ser informado com destaque sobre esse fato e sobre os meios pelos quais poder exercer os direitos do titular elencados no art. 18 desta Lei.
+Art. 10. O legtimo interesse do controlador somente poder fundamentar tratamento de dados pessoais para finalidades legtimas, consideradas a partir de situaes concretas, que incluem, mas no se limitam a:
+I - apoio e promoo de atividades do controlador; e
+II - proteo, em relao ao titular, do exerccio regular de seus direitos ou prestao de servios que o beneficiem, respeitadas as legtimas expectativas dele e os direitos e liberdades fundamentais, nos termos desta Lei.
+1 Quando o tratamento for baseado no legtimo interesse do controlador, somente os dados pessoais estritamente necessrios para a finalidade pretendida podero ser tratados.
+2 O controlador dever adotar medidas para garantir a transparncia do tratamento de dados baseado em seu legtimo interesse.
+3 A autoridade nacional poder solicitar ao controlador relatrio de impacto proteo de dados pessoais, quando o tratamento tiver como fundamento seu interesse legtimo, observados os segredos comercial e industrial.
+Seo II
+Do Tratamento de Dados Pessoais Sensveis
+Art. 11. O tratamento de dados pessoais sensveis somente poder ocorrer nas seguintes hipteses:
+I - quando o titular ou seu responsvel legal consentir, de forma especfica e destacada, para finalidades especficas;
+II - sem fornecimento de consentimento do titular, nas hipteses em que for indispensvel para:
+a) cumprimento de obrigao legal ou regulatria pelo controlador;
+b) tratamento compartilhado de dados necessrios execuo, pela administrao pblica, de polticas pblicas previstas em leis ou regulamentos;
+c) realizao de estudos por rgo de pesquisa, garantida, sempre que possvel, a anonimizao dos dados pessoais sensveis;
+d) exerccio regular de direitos, inclusive em contrato e em processo judicial, administrativo e arbitral, este ltimo nos termos da
+Lei n 9.307, de 23 de setembro de 1996 (Lei de Arbitragem)
+;
+e) proteo da vida ou da incolumidade fsica do titular ou de terceiro;
+f) tutela da sade, exclusivamente, em procedimento realizado por 
+ profissionais de sade, servios de sade ou autoridade sanitria; ou
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+g) garantia da preveno fraude e segurana do titular, nos processos de identificao e autenticao de cadastro em sistemas eletrnicos, resguardados os direitos mencionados no art. 9 desta Lei e exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteo dos dados pessoais.
+1 Aplica-se o disposto neste artigo a qualquer tratamento de dados pessoais que revele dados pessoais sensveis e que possa causar dano ao titular, ressalvado o disposto em legislao especfica.
+2 Nos casos de aplicao do disposto nas alneas “a” e “b” do inciso II do
+caput
+deste artigo pelos rgos e pelas entidades pblicas, ser dada publicidade referida dispensa de consentimento, nos termos do inciso I do
+caput
+do art. 23 desta Lei.
+3 A comunicao ou o uso compartilhado de dados pessoais sensveis entre controladores com objetivo de obter vantagem econmica poder ser objeto de vedao ou de regulamentao por parte da autoridade nacional, ouvidos os rgos setoriais do Poder Pblico, no mbito de suas competncias.
+4 vedada a comunicao ou o uso compartilhado entre controladores 
+ de dados pessoais sensveis referentes sade com objetivo de obter 
+ vantagem econmica, exceto nas hipteses relativas a prestao de 
+ servios de sade, de assistncia farmacutica e de assistncia sade, 
+ desde que observado o 5 deste artigo, includos os servios 
+ auxiliares de diagnose e terapia, em benefcio dos interesses dos 
+ titulares de dados, e para permitir:
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+I - a portabilidade de dados quando solicitada pelo titular; ou
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+II - as transaes financeiras e administrativas resultantes do uso e da 
+ prestao dos servios de que trata este pargrafo.
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+5 vedado s operadoras de planos privados 
+ de assistncia sade o tratamento de dados de sade para a prtica de 
+ seleo de riscos na contratao de qualquer modalidade, assim como na 
+ contratao e excluso de beneficirios.
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+Art. 12. Os dados anonimizados no sero considerados dados pessoais para os fins desta Lei, salvo quando o processo de anonimizao ao qual foram submetidos for revertido, utilizando exclusivamente meios prprios, ou quando, com esforos razoveis, puder ser revertido.
+1 A determinao do que seja razovel deve levar em considerao fatores objetivos, tais como custo e tempo necessrios para reverter o processo de anonimizao, de acordo com as tecnologias disponveis, e a utilizao exclusiva de meios prprios.
+2 Podero ser igualmente considerados como dados pessoais, para os fins desta Lei, aqueles utilizados para formao do perfil comportamental de determinada pessoa natural, se identificada.
+3 A autoridade nacional poder dispor sobre padres e tcnicas utilizados em processos de anonimizao e realizar verificaes acerca de sua segurana, ouvido o Conselho Nacional de Proteo de Dados Pessoais.
+Art. 13. Na realizao de estudos em sade pblica, os rgos de pesquisa podero ter acesso a bases de dados pessoais, que sero tratados exclusivamente dentro do rgo e estritamente para a finalidade de realizao de estudos e pesquisas e mantidos em ambiente controlado e seguro, conforme prticas de segurana previstas em regulamento especfico e que incluam, sempre que possvel, a anonimizao ou pseudonimizao dos dados, bem como considerem os devidos padres ticos relacionados a estudos e pesquisas.
+1 A divulgao dos resultados ou de qualquer excerto do estudo ou da pesquisa de que trata o
+caput
+deste artigo em nenhuma hiptese poder revelar dados pessoais.
+2 O rgo de pesquisa ser o responsvel pela segurana da informao prevista no
+caput
+deste artigo, no permitida, em circunstncia alguma, a transferncia dos dados a terceiro.
+3 O acesso aos dados de que trata este artigo ser objeto de regulamentao por parte da autoridade nacional e das autoridades da rea de sade e sanitrias, no mbito de suas competncias.
+4 Para os efeitos deste artigo, a pseudonimizao o tratamento por meio do qual um dado perde a possibilidade de associao, direta ou indireta, a um indivduo, seno pelo uso de informao adicional mantida separadamente pelo controlador em ambiente controlado e seguro.
+Seo III
+Do Tratamento de Dados Pessoais de Crianas e de Adolescentes
+Art. 14. O tratamento de dados pessoais de crianas e de adolescentes dever ser realizado em seu melhor interesse, nos termos deste artigo e da legislao pertinente.
+1 O tratamento de dados pessoais de crianas dever ser realizado com o consentimento especfico e em destaque dado por pelo menos um dos pais ou pelo responsvel legal.
+2 No tratamento de dados de que trata o 1 deste artigo, os controladores devero manter pblica a informao sobre os tipos de dados coletados, a forma de sua utilizao e os procedimentos para o exerccio dos direitos a que se refere o art. 18 desta Lei.
+3 Podero ser coletados dados pessoais de crianas sem o consentimento a que se refere o 1 deste artigo quando a coleta for necessria para contatar os pais ou o responsvel legal, utilizados uma nica vez e sem armazenamento, ou para sua proteo, e em nenhum caso podero ser repassados a terceiro sem o consentimento de que trata o 1 deste artigo.
+4 Os controladores no devero condicionar a participao dos titulares de que trata o 1 deste artigo em jogos, aplicaes de internet ou outras atividades ao fornecimento de informaes pessoais alm das estritamente necessrias atividade.
+5 O controlador deve realizar todos os esforos razoveis para verificar que o consentimento a que se refere o 1 deste artigo foi dado pelo responsvel pela criana, consideradas as tecnologias disponveis.
+6 As informaes sobre o tratamento de dados referidas neste artigo devero ser fornecidas de maneira simples, clara e acessvel, consideradas as caractersticas fsico-motoras, perceptivas, sensoriais, intelectuais e mentais do usurio, com uso de recursos audiovisuais quando adequado, de forma a proporcionar a informao necessria aos pais ou ao responsvel legal e adequada ao entendimento da criana.
+Seo IV
+Do Trmino do Tratamento de Dados
+Art. 15. O trmino do tratamento de dados pessoais ocorrer nas seguintes hipteses:
+I - verificao de que a finalidade foi alcanada ou de que os dados deixaram de ser necessrios ou pertinentes ao alcance da finalidade especfica almejada;
+II - fim do perodo de tratamento;
+III - comunicao do titular, inclusive no exerccio de seu direito de revogao do consentimento conforme disposto no 5 do art. 8 desta Lei, resguardado o interesse pblico; ou
+IV - determinao da autoridade nacional, quando houver violao ao disposto nesta Lei.
+Art. 16. Os dados pessoais sero eliminados aps o trmino de seu tratamento, no mbito e nos limites tcnicos das atividades, autorizada a conservao para as seguintes finalidades:
+I - cumprimento de obrigao legal ou regulatria pelo controlador;
+II - estudo por rgo de pesquisa, garantida, sempre que possvel, a anonimizao dos dados pessoais;
+III - transferncia a terceiro, desde que respeitados os requisitos de tratamento de dados dispostos nesta Lei; ou
+IV - uso exclusivo do controlador, vedado seu acesso por terceiro, e desde que anonimizados os dados.
+CAPTULO III
+DOS DIREITOS DO TITULAR
+Art. 17. Toda pessoa natural tem assegurada a titularidade de seus dados pessoais e garantidos os direitos fundamentais de liberdade, de intimidade e de privacidade, nos termos desta Lei.
+Art. 18. O titular dos dados pessoais tem direito a obter do controlador, em relao aos dados do titular por ele tratados, a qualquer momento e mediante requisio:
+I - confirmao da existncia de tratamento;
+II - acesso aos dados;
+III - correo de dados incompletos, inexatos ou desatualizados;
+IV - anonimizao, bloqueio ou eliminao de dados desnecessrios, excessivos ou tratados em desconformidade com o disposto nesta Lei;
+V - portabilidade dos dados a outro fornecedor de servio ou produto, 
+ mediante requisio expressa, de acordo com a regulamentao da 
+ autoridade nacional, observados os segredos comercial e industrial;
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+VI - eliminao dos dados pessoais tratados com o consentimento do titular, exceto nas hipteses previstas no art. 16 desta Lei;
+VII - informao das entidades pblicas e privadas com as quais o controlador realizou uso compartilhado de dados;
+VIII - informao sobre a possibilidade de no fornecer consentimento e sobre as consequncias da negativa;
+IX - revogao do consentimento, nos termos do 5 do art. 8 desta Lei.
+1 O titular dos dados pessoais tem o direito de peticionar em relao aos seus dados contra o controlador perante a autoridade nacional.
+2 O titular pode opor-se a tratamento realizado com fundamento em uma das hipteses de dispensa de consentimento, em caso de descumprimento ao disposto nesta Lei.
+3 Os direitos previstos neste artigo sero exercidos mediante requerimento expresso do titular ou de representante legalmente constitudo, a agente de tratamento.
+4 Em caso de impossibilidade de adoo imediata da providncia de que trata o 3 deste artigo, o controlador enviar ao titular resposta em que poder:
+I - comunicar que no agente de tratamento dos dados e indicar, sempre que possvel, o agente; ou
+II - indicar as razes de fato ou de direito que impedem a adoo imediata da providncia.
+5 O requerimento referido no 3 deste artigo ser atendido sem custos para o titular, nos prazos e nos termos previstos em regulamento.
+6
+O responsvel dever informar, de maneira imediata, aos agentes de 
+ tratamento com os quais tenha realizado uso compartilhado de dados a 
+ correo, a eliminao, a anonimizao ou o bloqueio dos dados, para que 
+ repitam idntico procedimento, exceto nos casos em que esta comunicao 
+ seja comprovadamente impossvel ou implique esforo desproporcional.
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+7 A portabilidade dos dados pessoais a que se refere o inciso V do
+caput
+deste artigo no inclui dados que j tenham sido anonimizados pelo controlador.
+8 O direito a que se refere o 1 deste artigo tambm poder ser exercido perante os organismos de defesa do consumidor.
+Art. 19. A confirmao de existncia ou o acesso a dados pessoais sero providenciados, mediante requisio do titular:
+I - em formato simplificado, imediatamente; ou
+II - por meio de declarao clara e completa, que indique a origem dos dados, a inexistncia de registro, os critrios utilizados e a finalidade do tratamento, observados os segredos comercial e industrial, fornecida no prazo de at 15 (quinze) dias, contado da data do requerimento do titular.
+1 Os dados pessoais sero armazenados em formato que favorea o exerccio do direito de acesso.
+2 As informaes e os dados podero ser fornecidos, a critrio do titular:
+I - por meio eletrnico, seguro e idneo para esse fim; ou
+II - sob forma impressa.
+3 Quando o tratamento tiver origem no consentimento do titular ou em contrato, o titular poder solicitar cpia eletrnica integral de seus dados pessoais, observados os segredos comercial e industrial, nos termos de regulamentao da autoridade nacional, em formato que permita a sua utilizao subsequente, inclusive em outras operaes de tratamento.
+4 A autoridade nacional poder dispor de forma diferenciada acerca dos prazos previstos nos incisos I e II do
+caput
+deste artigo para os setores especficos.
+Art. 20. O titular dos dados tem direito a solicitar a reviso de 
+ decises tomadas unicamente com base em tratamento automatizado de dados 
+ pessoais que afetem seus interesses, includas as decises destinadas a 
+ definir o seu perfil pessoal, profissional, de consumo e de crdito ou os 
+ aspectos de sua personalidade.
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+1 O controlador dever fornecer, sempre que solicitadas, informaes claras e adequadas a respeito dos critrios e dos procedimentos utilizados para a deciso automatizada, observados os segredos comercial e industrial.
+2 Em caso de no oferecimento de informaes de que trata o 1 deste artigo baseado na observncia de segredo comercial e industrial, a autoridade nacional poder realizar auditoria para verificao de aspectos discriminatrios em tratamento automatizado de dados pessoais.
+3
+(VETADO)
+.
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+Art. 21. Os dados pessoais referentes ao exerccio regular de direitos pelo titular no podem ser utilizados em seu prejuzo.
+Art. 22. A defesa dos interesses e dos direitos dos titulares de dados poder ser exercida em juzo, individual ou coletivamente, na forma do disposto na legislao pertinente, acerca dos instrumentos de tutela individual e coletiva.
+CAPTULO IV
+DO TRATAMENTO DE DADOS PESSOAIS PELO PODER PBLICO
+Seo I
+Das Regras
+Art. 23. O tratamento de dados pessoais pelas pessoas jurdicas de direito pblico referidas no pargrafo nico do
+art. 1 da Lei n 12.527, de 18 de novembro de 2011 (Lei de Acesso Informao)
+, dever ser realizado para o atendimento de sua finalidade pblica, na persecuo do interesse pblico, com o objetivo de executar as competncias legais ou cumprir as atribuies legais do servio pblico, desde que:
+I - sejam informadas as hipteses em que, no exerccio de suas competncias, realizam o tratamento de dados pessoais, fornecendo informaes claras e atualizadas sobre a previso legal, a finalidade, os procedimentos e as prticas utilizadas para a execuo dessas atividades, em veculos de fcil acesso, preferencialmente em seus stios eletrnicos;
+II - (VETADO); e
+III - seja indicado um encarregado quando realizarem operaes de 
+ tratamento de dados pessoais, nos termos do art. 39 desta Lei; e
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+IV -
+(VETADO)
+.
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+1 A autoridade nacional poder dispor sobre as formas de publicidade das operaes de tratamento.
+2 O disposto nesta Lei no dispensa as pessoas jurdicas mencionadas no
+caput
+deste artigo de instituir as autoridades de que trata a
+Lei n 12.527, de 18 de novembro de 2011 (Lei de Acesso Informao)
+.
+3 Os prazos e procedimentos para exerccio dos direitos do titular perante o Poder Pblico observaro o disposto em legislao especfica, em especial as disposies constantes da
+Lei n 9.507, de 12 de novembro de 1997 (Lei do Habeas Data)
+, da
+Lei n 9.784, de 29 de janeiro de 1999 (Lei Geral do Processo Administrativo)
+, e da
+Lei n 12.527, de 18 de novembro de 2011 (Lei de Acesso Informao)
+.
+4 Os servios notariais e de registro exercidos em carter privado, por delegao do Poder Pblico, tero o mesmo tratamento dispensado s pessoas jurdicas referidas no
+caput
+deste artigo, nos termos desta Lei.
+5 Os rgos notariais e de registro devem fornecer acesso aos dados por meio eletrnico para a administrao pblica, tendo em vista as finalidades de que trata o
+caput
+deste artigo.
+Art. 24. As empresas pblicas e as sociedades de economia mista que atuam em regime de concorrncia, sujeitas ao disposto no
+art. 173 da Constituio Federal
+, tero o mesmo tratamento dispensado s pessoas jurdicas de direito privado particulares, nos termos desta Lei.
+Pargrafo nico. As empresas pblicas e as sociedades de economia mista, quando estiverem operacionalizando polticas pblicas e no mbito da execuo delas, tero o mesmo tratamento dispensado aos rgos e s entidades do Poder Pblico, nos termos deste Captulo.
+Art. 25. Os dados devero ser mantidos em formato interopervel e estruturado para o uso compartilhado, com vistas execuo de polticas pblicas, prestao de servios pblicos, descentralizao da atividade pblica e disseminao e ao acesso das informaes pelo pblico em geral.
+Art. 26. O uso compartilhado de dados pessoais pelo Poder Pblico deve atender a finalidades especficas de execuo de polticas pblicas e atribuio legal pelos rgos e pelas entidades pblicas, respeitados os princpios de proteo de dados pessoais elencados no art. 6 desta Lei.
+1 vedado ao Poder Pblico transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso, exceto:
+I - em casos de execuo descentralizada de atividade pblica que exija a transferncia, exclusivamente para esse fim especfico e determinado, observado o disposto na
+Lei n 12.527, de 18 de novembro de 2011 (Lei de Acesso Informao)
+;
+II - (VETADO);
+III - nos casos em que os dados forem acessveis publicamente, observadas as disposies desta Lei.
+IV - quando houver previso legal ou a transferncia for respaldada em 
+ contratos, convnios ou instrumentos congneres; ou
+(Includo pela Lei 
+ n 13.853, de 2019)
+V - na hiptese de a transferncia dos dados objetivar exclusivamente a 
+ preveno de fraudes e irregularidades, ou proteger e resguardar a segurana 
+ e a integridade do titular dos dados, desde que vedado o tratamento para 
+ outras finalidades.
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+2 Os contratos e convnios de que trata o 1 deste artigo devero ser comunicados autoridade nacional.
+Art. 27. A comunicao ou o uso compartilhado de dados pessoais de pessoa jurdica de direito pblico a pessoa de direito privado ser informado autoridade nacional e depender de consentimento do titular, exceto:
+I - nas hipteses de dispensa de consentimento previstas nesta Lei;
+II - nos casos de uso compartilhado de dados, em que ser dada publicidade nos termos do inciso I do
+caput
+do art. 23 desta Lei; ou
+III - nas excees constantes do 1 do art. 26 desta Lei.
+Pargrafo nico. A informao autoridade nacional de que trata o
+caput
+deste artigo ser objeto de regulamentao.
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+Art. 28. (VETADO).
+Art. 29. A autoridade nacional poder solicitar, a qualquer momento, aos 
+ rgos e s entidades do poder pblico a realizao de operaes de 
+ tratamento de dados pessoais, informaes especficas sobre o mbito e a 
+ natureza dos dados e outros detalhes do tratamento realizado e poder emitir 
+ parecer tcnico complementar para garantir o cumprimento desta Lei.
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+Art. 30. A autoridade nacional poder estabelecer normas complementares para as atividades de comunicao e de uso compartilhado de dados pessoais.
+Seo II
+Da Responsabilidade
+Art. 31. Quando houver infrao a esta Lei em decorrncia do tratamento de dados pessoais por rgos pblicos, a autoridade nacional poder enviar informe com medidas cabveis para fazer cessar a violao.
+Art. 32. A autoridade nacional poder solicitar a agentes do Poder Pblico a publicao de relatrios de impacto proteo de dados pessoais e sugerir a adoo de padres e de boas prticas para os tratamentos de dados pessoais pelo Poder Pblico.
+CAPTULO V
+DA TRANSFERNCIA INTERNACIONAL DE DADOS
+Art. 33. A transferncia internacional de dados pessoais somente permitida nos seguintes casos:
+I - para pases ou organismos internacionais que proporcionem grau de proteo de dados pessoais adequado ao previsto nesta Lei;
+II - quando o controlador oferecer e comprovar garantias de cumprimento dos princpios, dos direitos do titular e do regime de proteo de dados previstos nesta Lei, na forma de:
+a) clusulas contratuais especficas para determinada transferncia;
+b) clusulas-padro contratuais;
+c) normas corporativas globais;
+d) selos, certificados e cdigos de conduta regularmente emitidos;
+III - quando a transferncia for necessria para a cooperao jurdica internacional entre rgos pblicos de inteligncia, de investigao e de persecuo, de acordo com os instrumentos de direito internacional;
+IV - quando a transferncia for necessria para a proteo da vida ou da incolumidade fsica do titular ou de terceiro;
+V - quando a autoridade nacional autorizar a transferncia;
+VI - quando a transferncia resultar em compromisso assumido em acordo de cooperao internacional;
+VII - quando a transferncia for necessria para a execuo de poltica pblica ou atribuio legal do servio pblico, sendo dada publicidade nos termos do inciso I do
+caput
+do art. 23 desta Lei;
+VIII - quando o titular tiver fornecido o seu consentimento especfico e em destaque para a transferncia, com informao prvia sobre o carter internacional da operao, distinguindo claramente esta de outras finalidades; ou
+IX - quando necessrio para atender as hipteses previstas nos incisos II, V e VI do art. 7 desta Lei.
+Pargrafo nico. Para os fins do inciso I deste artigo, as pessoas jurdicas de direito pblico referidas no pargrafo nico do
+art. 1 da Lei n 12.527, de 18 de novembro de 2011 (Lei de Acesso Informao)
+, no mbito de suas competncias legais, e responsveis, no mbito de suas atividades, podero requerer autoridade nacional a avaliao do nvel de proteo a dados pessoais conferido por pas ou organismo internacional.
+Art. 34. O nvel de proteo de dados do pas estrangeiro ou do organismo internacional mencionado no inciso I do
+caput
+do art. 33 desta Lei ser avaliado pela autoridade nacional, que levar em considerao:
+I - as normas gerais e setoriais da legislao em vigor no pas de destino ou no organismo internacional;
+II - a natureza dos dados;
+III - a observncia dos princpios gerais de proteo de dados pessoais e direitos dos titulares previstos nesta Lei;
+IV - a adoo de medidas de segurana previstas em regulamento;
+V - a existncia de garantias judiciais e institucionais para o respeito aos direitos de proteo de dados pessoais; e
+VI - outras circunstncias especficas relativas transferncia.
+Art. 35. A definio do contedo de clusulas-padro contratuais, bem como a verificao de clusulas contratuais especficas para uma determinada transferncia, normas corporativas globais ou selos, certificados e cdigos de conduta, a que se refere o inciso II do
+caput
+do art. 33 desta Lei, ser realizada pela autoridade nacional.
+1 Para a verificao do disposto no
+caput
+deste artigo, devero ser considerados os requisitos, as condies e as garantias mnimas para a transferncia que observem os direitos, as garantias e os princpios desta Lei.
+2 Na anlise de clusulas contratuais, de documentos ou de normas corporativas globais submetidas aprovao da autoridade nacional, podero ser requeridas informaes suplementares ou realizadas diligncias de verificao quanto s operaes de tratamento, quando necessrio.
+3 A autoridade nacional poder designar organismos de certificao para a realizao do previsto no
+caput
+deste artigo, que permanecero sob sua fiscalizao nos termos definidos em regulamento.
+4 Os atos realizados por organismo de certificao podero ser revistos pela autoridade nacional e, caso em desconformidade com esta Lei, submetidos a reviso ou anulados.
+5 As garantias suficientes de observncia dos princpios gerais de proteo e dos direitos do titular referidas no
+caput
+deste artigo sero tambm analisadas de acordo com as medidas tcnicas e organizacionais adotadas pelo operador, de acordo com o previsto nos 1 e 2 do art. 46 desta Lei.
+Art. 36. As alteraes nas garantias apresentadas como suficientes de observncia dos princpios gerais de proteo e dos direitos do titular referidas no inciso II do art. 33 desta Lei devero ser comunicadas autoridade nacional.
+CAPTULO VI
+DOS AGENTES DE TRATAMENTO DE DADOS PESSOAIS
+Seo I
+Do Controlador e do Operador
+Art. 37. O controlador e o operador devem manter registro das operaes de tratamento de dados pessoais que realizarem, especialmente quando baseado no legtimo interesse.
+Art. 38. A autoridade nacional poder determinar ao controlador que elabore relatrio de impacto proteo de dados pessoais, inclusive de dados sensveis, referente a suas operaes de tratamento de dados, nos termos de regulamento, observados os segredos comercial e industrial.
+Pargrafo nico. Observado o disposto no
+caput
+deste artigo, o relatrio dever conter, no mnimo, a descrio dos tipos de dados coletados, a metodologia utilizada para a coleta e para a garantia da segurana das informaes e a anlise do controlador com relao a medidas, salvaguardas e mecanismos de mitigao de risco adotados.
+Art. 39. O operador dever realizar o tratamento segundo as instrues fornecidas pelo controlador, que verificar a observncia das prprias instrues e das normas sobre a matria.
+Art. 40. A autoridade nacional poder dispor sobre padres de interoperabilidade para fins de portabilidade, livre acesso aos dados e segurana, assim como sobre o tempo de guarda dos registros, tendo em vista especialmente a necessidade e a transparncia.
+Seo II
+Do Encarregado pelo Tratamento de Dados Pessoais
+Art. 41. O controlador dever indicar encarregado pelo tratamento de dados pessoais.
+1 A identidade e as informaes de contato do encarregado devero ser divulgadas publicamente, de forma clara e objetiva, preferencialmente no stio eletrnico do controlador.
+2 As atividades do encarregado consistem em:
+I - aceitar reclamaes e comunicaes dos titulares, prestar esclarecimentos e adotar providncias;
+II - receber comunicaes da autoridade nacional e adotar providncias;
+III - orientar os funcionrios e os contratados da entidade a respeito das prticas a serem tomadas em relao proteo de dados pessoais; e
+IV - executar as demais atribuies determinadas pelo controlador ou estabelecidas em normas complementares.
+3 A autoridade nacional poder estabelecer normas complementares sobre a definio e as atribuies do encarregado, inclusive hipteses de dispensa da necessidade de sua indicao, conforme a natureza e o porte da entidade ou o volume de operaes de tratamento de dados.
+4
+(VETADO)
+.
+(Includo pela Lei 
+ n 13.853, de 2019)
+Vigncia
+Seo III
+Da Responsabilidade e do Ressarcimento de Danos
+Art. 42. O controlador ou o operador que, em razo do exerccio de atividade de tratamento de dados pessoais, causar a outrem dano patrimonial, moral, individual ou coletivo, em violao legislao de proteo de dados pessoais, obrigado a repar-lo.
+1 A fim de assegurar a efetiva indenizao ao titular dos dados:
+I - o operador responde solidariamente pelos danos causados pelo tratamento quando descumprir as obrigaes da legislao de proteo de dados ou quando no tiver seguido as instrues lcitas do controlador, hiptese em que o operador equipara-se ao controlador, salvo nos casos de excluso previstos no art. 43 desta Lei;
+II - os controladores que estiverem diretamente envolvidos no tratamento do qual decorreram danos ao titular dos dados respondem solidariamente, salvo nos casos de excluso previstos no art. 43 desta Lei.
+2 O juiz, no processo civil, poder inverter o nus da prova a favor do titular dos dados quando, a seu juzo, for verossmil a alegao, houver hipossuficincia para fins de produo de prova ou quando a produo de prova pelo titular resultar-lhe excessivamente onerosa.
+3 As aes de reparao por danos coletivos que tenham por objeto a responsabilizao nos termos do
+caput
+deste artigo podem ser exercidas coletivamente em juzo, observado o disposto na legislao pertinente.
+4 Aquele que reparar o dano ao titular tem direito de regresso contra os demais responsveis, na medida de sua participao no evento danoso.
+Art. 43. Os agentes de tratamento s no sero responsabilizados quando provarem:
+I - que no realizaram o tratamento de dados pessoais que lhes atribudo;
+II - que, embora tenham realizado o tratamento de dados pessoais que lhes atribudo, no houve violao legislao de proteo de dados; ou
+III - que o dano decorrente de culpa exclusiva do titular dos dados ou de terceiro.
+Art. 44. O tratamento de dados pessoais ser irregular quando deixar de observar a legislao ou quando no fornecer a segurana que o titular dele pode esperar, consideradas as circunstncias relevantes, entre as quais:
+I - o modo pelo qual realizado;
+II - o resultado e os riscos que razoavelmente dele se esperam;
+III - as tcnicas de tratamento de dados pessoais disponveis poca em que foi realizado.
+Pargrafo nico. Responde pelos danos decorrentes da violao da segurana dos dados o controlador ou o operador que, ao deixar de adotar as medidas de segurana previstas no art. 46 desta Lei, der causa ao dano.
+Art. 45. As hipteses de violao do direito do titular no mbito das relaes de consumo permanecem sujeitas s regras de responsabilidade previstas na legislao pertinente.
+CAPTULO VII
+DA SEGURANA E DAS BOAS PRTICAS
+Seo I
+Da Segurana e do Sigilo de Dados
+Art. 46. Os agentes de tratamento devem adotar medidas de segurana, tcnicas e administrativas aptas a proteger os dados pessoais de acessos no autorizados e de situaes acidentais ou ilcitas de destruio, perda, alterao, comunicao ou qualquer forma de tratamento inadequado ou ilcito.
+1 A autoridade nacional poder dispor sobre padres tcnicos mnimos para tornar aplicvel o disposto no
+caput
+deste artigo, considerados a natureza das informaes tratadas, as caractersticas especficas do tratamento e o estado atual da tecnologia, especialmente no caso de dados pessoais sensveis, assim como os princpios previstos no
+caput
+do art. 6 desta Lei.
+2 As medidas de que trata o
+caput
+deste artigo devero ser observadas desde a fase de concepo do produto ou do servio at a sua execuo.
+Art. 47. Os agentes de tratamento ou qualquer outra pessoa que intervenha em uma das fases do tratamento obriga-se a garantir a segurana da informao prevista nesta Lei em relao aos dados pessoais, mesmo aps o seu trmino.
+Art. 48. O controlador dever comunicar autoridade nacional e ao titular a ocorrncia de incidente de segurana que possa acarretar risco ou dano relevante aos titulares.
+1 A comunicao ser feita em prazo razovel, conforme definido pela autoridade nacional, e dever mencionar, no mnimo:
+I - a descrio da natureza dos dados pessoais afetados;
+II - as informaes sobre os titulares envolvidos;
+III - a indicao das medidas tcnicas e de segurana utilizadas para a proteo dos dados, observados os segredos comercial e industrial;
+IV - os riscos relacionados ao incidente;
+V - os motivos da demora, no caso de a comunicao no ter sido imediata; e
+VI - as medidas que foram ou que sero adotadas para reverter ou mitigar os efeitos do prejuzo.
+2 A autoridade nacional verificar a gravidade do incidente e poder, caso necessrio para a salvaguarda dos direitos dos titulares, determinar ao controlador a adoo de providncias, tais como:
+I - ampla divulgao do fato em meios de comunicao; e
+II - medidas para reverter ou mitigar os efeitos do incidente.
+3 No juzo de gravidade do incidente, ser avaliada eventual comprovao de que foram adotadas medidas tcnicas adequadas que tornem os dados pessoais afetados ininteligveis, no mbito e nos limites tcnicos de seus servios, para terceiros no autorizados a acess-los.
+Art. 49. Os sistemas utilizados para o tratamento de dados pessoais devem ser estruturados de forma a atender aos requisitos de segurana, aos padres de boas prticas e de governana e aos princpios gerais previstos nesta Lei e s demais normas regulamentares.
+Seo II
+Das Boas Prticas e da Governana
+Art. 50. Os controladores e operadores, no mbito de suas competncias, pelo tratamento de dados pessoais, individualmente ou por meio de associaes, podero formular regras de boas prticas e de governana que estabeleam as condies de organizao, o regime de funcionamento, os procedimentos, incluindo reclamaes e peties de titulares, as normas de segurana, os padres tcnicos, as obrigaes especficas para os diversos envolvidos no tratamento, as aes educativas, os mecanismos internos de superviso e de mitigao de riscos e outros aspectos relacionados ao tratamento de dados pessoais.
+1 Ao estabelecer regras de boas prticas, o controlador e o operador levaro em considerao, em relao ao tratamento e aos dados, a natureza, o escopo, a finalidade e a probabilidade e a gravidade dos riscos e dos benefcios decorrentes de tratamento de dados do titular.
+2 Na aplicao dos princpios indicados nos incisos VII e VIII do
+caput
+do art. 6 desta Lei, o controlador, observados a estrutura, a escala e o volume de suas operaes, bem como a sensibilidade dos dados tratados e a probabilidade e a gravidade dos danos para os titulares dos dados, poder:
+I - implementar programa de governana em privacidade que, no mnimo:
+a) demonstre o comprometimento do controlador em adotar processos e polticas internas que assegurem o cumprimento, de forma abrangente, de normas e boas prticas relativas proteo de dados pessoais;
+b) seja aplicvel a todo o conjunto de dados pessoais que estejam sob seu controle, independentemente do modo como se realizou sua coleta;
+c) seja adaptado estrutura, escala e ao volume de suas operaes, bem como sensibilidade dos dados tratados;
+d) estabelea polticas e salvaguardas adequadas com base em processo de avaliao sistemtica de impactos e riscos privacidade;
+e) tenha o objetivo de estabelecer relao de confiana com o titular, por meio de atuao transparente e que assegure mecanismos de participao do titular;
+f) esteja integrado a sua estrutura geral de governana e estabelea e aplique mecanismos de superviso internos e externos;
+g) conte com planos de resposta a incidentes e remediao; e
+h) seja atualizado constantemente com base em informaes obtidas a partir de monitoramento contnuo e avaliaes peridicas;
+II - demonstrar a efetividade de seu programa de governana em privacidade quando apropriado e, em especial, a pedido da autoridade nacional ou de outra entidade responsvel por promover o cumprimento de boas prticas ou cdigos de conduta, os quais, de forma independente, promovam o cumprimento desta Lei.
+3 As regras de boas prticas e de governana devero ser publicadas e atualizadas periodicamente e podero ser reconhecidas e divulgadas pela autoridade nacional.
+Art. 51. A autoridade nacional estimular a adoo de padres tcnicos que facilitem o controle pelos titulares dos seus dados pessoais.
+CAPTULO VIII
+DA FISCALIZAO
+Seo I
+Das Sanes Administrativas
+Art. 52. Os agentes de tratamento de dados, em razo das infraes cometidas s normas previstas nesta Lei, ficam sujeitos s seguintes sanes administrativas aplicveis pela autoridade nacional:
+(Vigncia)
+I - advertncia, com indicao de prazo para adoo de medidas corretivas;
+II - multa simples, de at 2% (dois por cento) do faturamento da pessoa jurdica de direito privado, grupo ou conglomerado no Brasil no seu ltimo exerccio, excludos os tributos, limitada, no total, a R$ 50.000.000,00 (cinquenta milhes de reais) por infrao;
+III - multa diria, observado o limite total a que se refere o inciso II;
+IV - publicizao da infrao aps devidamente apurada e confirmada a sua ocorrncia;
+V - bloqueio dos dados pessoais a que se refere a infrao at a sua regularizao;
+VI - eliminao dos dados pessoais a que se refere a infrao;
+VII - (VETADO);
+VIII - (VETADO);
+IX - (VETADO).
+(Promulgao partes vetadas)
+(Promulgao partes vetadas)
+(Promulgao partes vetadas)
+X - suspenso 
+ parcial do funcionamento do banco de dados a que se refere a infrao pelo 
+ perodo mximo de 6 (seis) meses, prorrogvel por igual perodo, at a 
+ regularizao da atividade de tratamento pelo controlador;
+(Includo pela Lei n 13.853, de 2019)
+XI - suspenso 
+ do exerccio da atividade de tratamento dos dados pessoais a que se refere a 
+ infrao pelo perodo mximo de 6 (seis) meses, prorrogvel por igual 
+ perodo;
+(Includo pela Lei n 13.853, de 2019)
+XII - 
+ proibio parcial ou total do exerccio de atividades relacionadas a 
+ tratamento de dados.
+(Includo pela Lei n 13.853, de 2019)
+1 As sanes sero aplicadas aps procedimento administrativo que possibilite a oportunidade da ampla defesa, de forma gradativa, isolada ou cumulativa, de acordo com as peculiaridades do caso concreto e considerados os seguintes parmetros e critrios:
+I - a gravidade e a natureza das infraes e dos direitos pessoais afetados;
+II - a boa-f do infrator;
+III - a vantagem auferida ou pretendida pelo infrator;
+IV - a condio econmica do infrator;
+V - a reincidncia;
+VI - o grau do dano;
+VII - a cooperao do infrator;
+VIII - a adoo reiterada e demonstrada de mecanismos e procedimentos internos capazes de minimizar o dano, voltados ao tratamento seguro e adequado de dados, em consonncia com o disposto no inciso II do 2 do art. 48 desta Lei;
+IX - a adoo de poltica de boas prticas e governana;
+X - a pronta adoo de medidas corretivas; e
+XI - a proporcionalidade entre a gravidade da falta e a intensidade da sano.
+2 O disposto neste artigo no substitui a aplicao de sanes 
+ administrativas, civis ou penais definidas na Lei n 8.078, de 11 de 
+ setembro de 1990, e em legislao especfica.
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+Vigncia
+3 O 
+ disposto nos incisos I, IV, V, VI, X, XI e XII do
+caput
+deste artigo 
+ poder ser aplicado s entidades e aos rgos pblicos, sem prejuzo do 
+ disposto na
+Lei n 8.112, de 11 de dezembro de 1990
+, na
+Lei n 8.429, de 2 de junho de 1992
+, e na
+Lei n 12.527, de 18 de novembro de 2011
+.
+(Redao 
+ dada pela Lei n 13.853, de 2019)
+4 No clculo do valor da multa de que trata o inciso II do
+caput
+deste artigo, a autoridade nacional poder considerar o faturamento total da empresa ou grupo de empresas, quando no dispuser do valor do faturamento no ramo de atividade empresarial em que ocorreu a infrao, definido pela autoridade nacional, ou quando o valor for apresentado de forma incompleta ou no for demonstrado de forma inequvoca e idnea.
+5 O produto da arrecadao das multas aplicadas pela ANPD, inscritas 
+ ou no em dvida ativa, ser destinado ao Fundo de Defesa de Direitos 
+ Difusos de que tratam o art. 13 da Lei n 7.347, de 24 de julho de 1985, 
+ e a Lei n 9.008, de 21 de maro de 1995.
+(Includo pela 
+ Lei n 13.853, de 2019)
+(Promulgao partes vetadas)
+6 As 
+ sanes previstas nos incisos X, XI e XII do
+caput
+deste artigo 
+ sero aplicadas:
+(Includo pela 
+ Lei n 13.853, de 2019)
+I - somente 
+ aps j ter sido imposta ao menos 1 (uma) das sanes de que tratam os 
+ incisos II, III, IV, V e VI do
+caput
+deste artigo para o mesmo 
+ caso concreto; e
+(Includo pela 
+ Lei n 13.853, de 2019)
+II - em caso 
+ de controladores submetidos a outros rgos e entidades com competncias 
+ sancionatrias, ouvidos esses rgos.
+(Includo pela 
+ Lei n 13.853, de 2019)
+7 Os vazamentos individuais ou os acessos no autorizados de que 
+ trata o
+caput
+do art. 46 desta Lei podero ser objeto de conciliao 
+ direta entre controlador e titular e, caso no haja acordo, o 
+ controlador estar sujeito aplicao das penalidades de que trata este 
+ artigo.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Vigncia
+Art. 53. A autoridade nacional definir, por meio de regulamento prprio sobre sanes administrativas a infraes a esta Lei, que dever ser objeto de consulta pblica, as metodologias que orientaro o clculo do valor-base das sanes de multa.
+(Vigncia)
+1 As metodologias a que se refere o
+caput
+deste artigo devem ser previamente publicadas, para cincia dos agentes de tratamento, e devem apresentar objetivamente as formas e dosimetrias para o clculo do valor-base das sanes de multa, que devero conter fundamentao detalhada de todos os seus elementos, demonstrando a observncia dos critrios previstos nesta Lei.
+2 O regulamento de sanes e metodologias correspondentes deve estabelecer as circunstncias e as condies para a adoo de multa simples ou diria.
+Art. 54. O valor da sano de multa diria aplicvel s infraes a esta Lei deve observar a gravidade da falta e a extenso do dano ou prejuzo causado e ser fundamentado pela autoridade nacional.
+Pargrafo nico. A intimao da sano de multa diria dever conter, no mnimo, a descrio da obrigao imposta, o prazo razovel e estipulado pelo rgo para o seu cumprimento e o valor da multa diria a ser aplicada pelo seu descumprimento.
+(Vigncia)
+CAPTULO
+IX
+(Redao dada pela Lei n 15.352, de 2026)
+DA 
+ AGNCIA NACIONAL DE PROTEO DE DADOS E DO CONSELHO
+NACIONAL
+DE
+PROTEO
+DE
+DADOS
+PESSOAIS
+E DA PRIVACIDADE
+Seo
+I
+Da
+Agncia
+Nacional
+de
+Proteo
+de
+Dados
+Art. 55. (VETADO).
+(Revogado pela 
+ Lei n 14.460, de 2022)
+(Revogado pela 
+ Lei n 14.460, de 2022)
+(Revogado pela 
+ Lei n 14.460, de 2022)
+Art. 55-A. Fica criada a Agncia Nacional de 
+ Proteo de Dados (ANPD), autarquia de natureza
+especial
+vinculada
+ao
+Ministrio
+da
+Justia e
+Segurana
+Pblica,
+dotada
+de
+autonomia
+funcional, 
+ tcnica,
+decisria,
+administrativa
+e
+financeira,
+com 
+ patrimnio prprio e com sede e foro no Distrito Federal,
+nos
+termos
+da
+Lei
+n
+13.848,
+de
+25
+de
+junho de 2019
+.
+(Redao dada 
+ pela Lei n 15.452, de 2026)
+(Revogado pela Lei n 14.460, de 2022)
+Art. 55-C. A ANPD composta de:
+(Includo pela 
+ Lei n 13.853, de 2019)
+I - Conselho Diretor, rgo mximo de direo;
+(Includo pela 
+ Lei n 13.853, de 2019)
+II - Conselho Nacional de Proteo de Dados Pessoais e da Privacidade;
+(Includo pela 
+ Lei n 13.853, de 2019)
+III - Corregedoria;
+(Includo pela 
+ Lei n 13.853, de 2019)
+IV - Ouvidoria;
+(Includo pela 
+ Lei n 13.853, de 2019)
+V - (revogado);
+(Redao dada pela Lei n 14.460, de 2022)
+V-A
+-
+Procuradoria;
+(Redao dada pela Lei n 15.352, de 2026)
+V-B - Auditoria; e
+(Includo pela Lei n 15.352, de 2026)
+VI - unidades administrativas e unidades
+especializadas.
+(Redao dada pela Lei n 15.352, de 2026)
+Art. 55-D. O Conselho Diretor da ANPD ser composto de 
+ 5 (cinco) diretores, includo o Diretor-Presidente.
+(Includo pela 
+ Lei n 13.853, de 2019)
+1 Os membros do Conselho Diretor da ANPD sero escolhidos pelo Presidente 
+ da Repblica e por ele nomeados, aps aprovao pelo Senado Federal, nos 
+ termos da alnea f do inciso III do art. 52 da Constituio Federal, e 
+ ocuparo cargo em comisso do Grupo-Direo e Assessoramento Superiores - 
+ DAS, no mnimo, de nvel 5.
+(Includo pela 
+ Lei n 13.853, de 2019)
+2 Os membros do Conselho Diretor sero escolhidos dentre brasileiros que 
+ tenham reputao ilibada, nvel superior de educao e elevado conceito no 
+ campo de especialidade dos cargos para os quais sero nomeados.
+(Includo pela 
+ Lei n 13.853, de 2019)
+3 O mandato dos membros do Conselho Diretor ser de 4 (quatro) anos.
+(Includo pela 
+ Lei n 13.853, de 2019)
+4 Os mandatos dos primeiros membros do Conselho Diretor nomeados sero de 
+ 2 (dois), de 3 (trs), de 4 (quatro), de 5 (cinco) e de 6 (seis) anos, 
+ conforme estabelecido no ato de nomeao.
+(Includo pela 
+ Lei n 13.853, de 2019)
+5 Na hiptese de vacncia do cargo no curso do mandato de membro do 
+ Conselho Diretor, o prazo remanescente ser completado pelo sucessor.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 55-E. Os membros do Conselho Diretor somente 
+ perdero seus cargos em virtude de renncia, condenao judicial transitada 
+ em julgado ou pena de demisso decorrente de processo administrativo 
+ disciplinar.
+(Includo pela 
+ Lei n 13.853, de 2019)
+1 Nos termos do
+caput
+deste artigo, cabe ao Ministro de Estado Chefe 
+ da Casa Civil da Presidncia da Repblica instaurar o processo 
+ administrativo disciplinar, que ser conduzido por comisso especial 
+ constituda por servidores pblicos federais estveis.
+(Includo pela 
+ Lei n 13.853, de 2019)
+2 Compete ao Presidente da Repblica determinar o afastamento preventivo, 
+ somente quando assim recomendado pela comisso especial de que trata o 1 
+ deste artigo, e proferir o julgamento.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 55-F. Aplica-se aos membros do Conselho Diretor, 
+ aps o exerccio do cargo, o disposto no
+art. 6 da Lei n 12.813, de 16 de 
+ maio de 2013
+.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Pargrafo nico. A infrao ao disposto no
+caput
+deste artigo caracteriza ato de improbidade administrativa.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 55-G. Ato do Presidente da Repblica dispor 
+ sobre a estrutura regimental da ANPD.
+(Includo pela 
+ Lei n 13.853, de 2019)
+1 At a data de entrada em vigor de sua estrutura regimental, a ANPD 
+ receber o apoio tcnico e administrativo da Casa Civil da Presidncia da 
+ Repblica para o exerccio de suas atividades.
+(Includo pela 
+ Lei n 13.853, de 2019)
+2 O Conselho Diretor dispor sobre o regimento interno da ANPD.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 55-H. Os cargos em comisso e as funes de 
+ confiana da ANPD sero remanejados de outros rgos e entidades do Poder 
+ Executivo federal.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 55-I. Os ocupantes dos cargos em comisso e das 
+ funes de confiana da ANPD sero indicados pelo Conselho Diretor e 
+ nomeados ou designados pelo Diretor-Presidente.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 55-J. Compete ANPD:
+(Includo pela 
+ Lei n 13.853, de 2019)
+I - zelar pela proteo dos dados pessoais, nos termos da legislao;
+(Includo pela 
+ Lei n 13.853, de 2019)
+II - zelar pela observncia dos segredos comercial e industrial, observada a 
+ proteo de dados pessoais e do sigilo das informaes quando protegido por 
+ lei ou quando a quebra do sigilo violar os fundamentos do art. 2 desta Lei;
+(Includo pela 
+ Lei n 13.853, de 2019)
+III - elaborar diretrizes para a Poltica Nacional de Proteo de Dados 
+ Pessoais e da Privacidade;
+(Includo pela 
+ Lei n 13.853, de 2019)
+IV - fiscalizar e aplicar sanes em caso de tratamento de dados realizado 
+ em descumprimento legislao, mediante processo administrativo que 
+ assegure o contraditrio, a ampla defesa e o direito de recurso;
+(Includo pela 
+ Lei n 13.853, de 2019)
+V - apreciar peties de titular contra controlador aps comprovada pelo 
+ titular a apresentao de reclamao ao controlador no solucionada no prazo 
+ estabelecido em regulamentao;
+(Includo pela 
+ Lei n 13.853, de 2019)
+VI - promover na populao o conhecimento das normas e das polticas 
+ pblicas sobre proteo de dados pessoais e das medidas de segurana;
+(Includo pela 
+ Lei n 13.853, de 2019)
+VII - promover e elaborar estudos sobre as prticas nacionais e 
+ internacionais de proteo de dados pessoais e privacidade;
+(Includo pela 
+ Lei n 13.853, de 2019)
+VIII - estimular a adoo de padres para servios e produtos que facilitem 
+ o exerccio de controle dos titulares sobre seus dados pessoais, os quais 
+ devero levar em considerao as especificidades das atividades e o porte 
+ dos responsveis;
+(Includo pela 
+ Lei n 13.853, de 2019)
+IX - promover aes de cooperao com autoridades de proteo de dados 
+ pessoais de outros pases, de natureza internacional ou transnacional;
+(Includo pela 
+ Lei n 13.853, de 2019)
+X - dispor sobre as formas de publicidade das operaes de tratamento de 
+ dados pessoais, respeitados os segredos comercial e industrial;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XI - solicitar, a qualquer momento, s entidades do poder pblico que 
+ realizem operaes de tratamento de dados pessoais informe especfico sobre 
+ o mbito, a natureza dos dados e os demais detalhes do tratamento realizado, 
+ com a possibilidade de emitir parecer tcnico complementar para garantir o 
+ cumprimento desta Lei;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XII - elaborar relatrios de gesto anuais acerca de suas atividades;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XIII - editar regulamentos e procedimentos sobre proteo de dados pessoais 
+ e privacidade, bem como sobre relatrios de impacto proteo de dados 
+ pessoais para os casos em que o tratamento representar alto risco garantia 
+ dos princpios gerais de proteo de dados pessoais previstos nesta Lei;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XIV - ouvir os agentes de tratamento e a sociedade em matrias de interesse 
+ relevante e prestar contas sobre suas atividades e planejamento;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XV - arrecadar e aplicar suas receitas e publicar, no relatrio de gesto a 
+ que se refere o inciso XII do
+caput
+deste artigo, o detalhamento de suas receitas e 
+ despesas;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XVI - realizar auditorias, ou determinar sua realizao, no mbito da 
+ atividade de fiscalizao de que trata o inciso IV e com a devida 
+ observncia do disposto no inciso II do
+caput
+deste artigo, sobre o tratamento de dados 
+ pessoais efetuado pelos agentes de tratamento, includo o poder pblico;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XVII - celebrar, a qualquer momento, compromisso com agentes de tratamento 
+ para eliminar irregularidade, incerteza jurdica ou situao contenciosa no 
+ mbito de processos administrativos, de acordo com o previsto no Decreto-Lei 
+ n 4.657, de 4 de setembro de 1942;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XVIII - editar normas, orientaes e procedimentos simplificados e 
+ diferenciados, inclusive quanto aos prazos, para que microempresas e 
+ empresas de pequeno porte, bem como iniciativas empresariais de carter 
+ incremental ou disruptivo que se autodeclarem
+startups
+ou empresas de inovao, possam adequar-se a 
+ esta Lei;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XIX - garantir que o tratamento de dados de idosos seja efetuado de maneira 
+ simples, clara, acessvel e adequada ao seu entendimento, nos termos desta 
+ Lei e da
+Lei n 10.741, de 1 de outubro de 2003 (Estatuto do Idoso)
+;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XX - deliberar, na esfera administrativa, em carter terminativo, sobre a 
+ interpretao desta Lei, as suas competncias e os casos omissos;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XXI - comunicar s autoridades competentes as infraes penais das quais 
+ tiver conhecimento;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XXII - comunicar aos rgos de controle interno o descumprimento do disposto 
+ nesta Lei por rgos e entidades da administrao pblica federal;
+(Includo pela 
+ Lei n 13.853, de 2019)
+XXIII - articular-se com as autoridades reguladoras pblicas para exercer 
+ suas competncias em setores especficos de atividades econmicas e 
+ governamentais sujeitas regulao; e
+(Includo pela 
+ Lei n 13.853, de 2019)
+XXIV - implementar mecanismos simplificados, inclusive por meio eletrnico, 
+ para o registro de reclamaes sobre o tratamento de dados pessoais em 
+ desconformidade com esta Lei.
+(Includo pela 
+ Lei n 13.853, de 2019)
+1 Ao impor condicionantes administrativas ao tratamento de dados pessoais 
+ por agente de tratamento privado, sejam eles limites, encargos ou sujeies, 
+ a ANPD deve observar a exigncia de mnima interveno, assegurados os 
+ fundamentos, os princpios e os direitos dos titulares previstos no
+art. 170 
+ da Constituio Federal
+e nesta Lei.
+(Includo pela 
+ Lei n 13.853, de 2019)
+2 Os regulamentos e as normas editados pela ANPD devem ser precedidos de 
+ consulta e audincia pblicas, bem como de anlises de impacto regulatrio.
+(Includo pela 
+ Lei n 13.853, de 2019)
+3 A ANPD e os rgos e entidades pblicos responsveis pela regulao de 
+ setores especficos da atividade econmica e governamental devem coordenar 
+ suas atividades, nas correspondentes esferas de atuao, com vistas a 
+ assegurar o cumprimento de suas atribuies com a maior eficincia e 
+ promover o adequado funcionamento dos setores regulados, conforme legislao 
+ especfica, e o tratamento de dados pessoais, na forma desta Lei.
+(Includo pela 
+ Lei n 13.853, de 2019)
+4 A ANPD manter frum permanente de comunicao, inclusive por meio de 
+ cooperao tcnica, com rgos e entidades da administrao pblica 
+ responsveis pela regulao de setores especficos da atividade econmica e 
+ governamental, a fim de facilitar as competncias regulatria, 
+ fiscalizatria e punitiva da ANPD.
+(Includo pela 
+ Lei n 13.853, de 2019)
+5 No exerccio das competncias de que trata o
+caput
+deste artigo, a autoridade competente dever zelar pela 
+ preservao do segredo empresarial e do sigilo das informaes, nos termos 
+ da lei.
+(Includo pela 
+ Lei n 13.853, de 2019)
+6 As reclamaes colhidas conforme o disposto no inciso V do
+caput
+deste artigo podero ser analisadas de forma agregada, e as 
+ eventuais providncias delas decorrentes podero ser adotadas de forma 
+ padronizada.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 55-K. A aplicao das sanes previstas nesta Lei 
+ compete exclusivamente ANPD, e suas competncias prevalecero, no que se 
+ refere proteo de dados pessoais, sobre as competncias correlatas de 
+ outras entidades ou rgos da administrao pblica.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Pargrafo nico. A ANPD articular sua atuao com outros rgos e entidades 
+ com competncias sancionatrias e normativas afetas ao tema de proteo de 
+ dados pessoais e ser o rgo central de interpretao desta Lei e do 
+ estabelecimento de normas e diretrizes para a sua implementao.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 55-L. Constituem receitas da ANPD:
+(Includo pela 
+ Lei n 13.853, de 2019)
+I - as dotaes, consignadas no oramento geral da Unio, os crditos 
+ especiais, os crditos adicionais, as transferncias e os repasses que lhe 
+ forem conferidos;
+(Includo pela 
+ Lei n 13.853, de 2019)
+II - as doaes, os legados, as subvenes e outros recursos que lhe forem 
+ destinados;
+(Includo pela 
+ Lei n 13.853, de 2019)
+III - os valores apurados na venda ou aluguel de bens mveis e imveis de 
+ sua propriedade;
+(Includo pela 
+ Lei n 13.853, de 2019)
+IV - os valores apurados em aplicaes no mercado financeiro das receitas 
+ previstas neste artigo;
+(Includo pela 
+ Lei n 13.853, de 2019)
+V - (VETADO);
+(Includo pela 
+ Lei n 13.853, de 2019)
+VI - os recursos provenientes de acordos, convnios ou contratos celebrados 
+ com entidades, organismos ou empresas, pblicos ou privados, nacionais ou 
+ internacionais;
+(Includo pela 
+ Lei n 13.853, de 2019)
+VII - o produto da venda de publicaes, material tcnico, dados e 
+ informaes, inclusive para fins de licitao pblica.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 55-M. Constituem o patrimnio da ANPD os bens e os direitos:
+(Includo pela Lei n 14.460, de 2022)
+I - que lhe forem transferidos pelos rgos da Presidncia da Repblica; e
+(Includo pela Lei n 14.460, de 2022)
+II - que venha a adquirir ou a incorporar.
+(Includo pela Lei n 14.460, de 2022)
+Art. 56. (VETADO).
+Art. 5
+7.
+(VETADO).
+Seo II
+Do Conselho Nacional de Proteo de Dados Pessoais e da Privacidade
+Art. 58. (VETADO).
+Art. 58-A. O Conselho Nacional de Proteo de Dados Pessoais e da 
+ Privacidade ser composto de 23 (vinte e trs) representantes, titulares 
+ e suplentes, dos seguintes rgos:
+(Includo pela 
+ Lei n 13.853, de 2019)
+I - 5 (cinco) do Poder Executivo federal;
+(Includo pela 
+ Lei n 13.853, de 2019)
+II - 1 (um) do Senado Federal;
+(Includo pela 
+ Lei n 13.853, de 2019)
+III - 1 (um) da Cmara dos Deputados;
+(Includo pela 
+ Lei n 13.853, de 2019)
+IV - 1 (um) do Conselho Nacional de Justia;
+(Includo pela 
+ Lei n 13.853, de 2019)
+V - 1 (um) do Conselho Nacional do Ministrio Pblico;
+(Includo pela 
+ Lei n 13.853, de 2019)
+VI - 1 (um) do Comit Gestor da Internet no Brasil;
+(Includo pela 
+ Lei n 13.853, de 2019)
+VII - 3 (trs) de entidades da sociedade civil com atuao relacionada a 
+ proteo de dados pessoais;
+(Includo pela 
+ Lei n 13.853, de 2019)
+VIII - 3 (trs) de instituies cientficas, tecnolgicas e de inovao;
+(Includo pela 
+ Lei n 13.853, de 2019)
+IX - 3 (trs) de confederaes sindicais representativas das categorias 
+ econmicas do setor produtivo;
+(Includo pela 
+ Lei n 13.853, de 2019)
+X - 2 (dois) de entidades representativas do setor empresarial 
+ relacionado rea de tratamento de dados pessoais; e
+(Includo pela 
+ Lei n 13.853, de 2019)
+XI - 2 (dois) de entidades representativas do setor laboral.
+(Includo pela 
+ Lei n 13.853, de 2019)
+1 Os representantes sero designados por ato do Presidente da 
+ Repblica, permitida a delegao.
+(Includo pela 
+ Lei n 13.853, de 2019)
+2 Os representantes de que tratam os incisos I, II, III, IV, V e VI 
+ do
+caput
+deste artigo e seus suplentes sero indicados pelos 
+ titulares dos respectivos rgos e entidades da administrao pblica.
+(Includo pela 
+ Lei n 13.853, de 2019)
+3 Os representantes de que tratam os incisos VII, VIII, IX, X e XI do
+caput
+deste artigo e seus suplentes:
+(Includo pela 
+ Lei n 13.853, de 2019)
+I - sero indicados na forma de regulamento;
+(Includo pela 
+ Lei n 13.853, de 2019)
+II - no podero ser membros do Comit Gestor da Internet no Brasil;
+(Includo pela 
+ Lei n 13.853, de 2019)
+III - tero mandato de 2 (dois) anos, permitida 1 (uma) reconduo.
+(Includo pela 
+ Lei n 13.853, de 2019)
+4 A participao no Conselho Nacional de Proteo de Dados Pessoais e 
+ da Privacidade ser considerada prestao de servio pblico relevante, 
+ no remunerada.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 58-B. Compete ao Conselho Nacional de Proteo de Dados Pessoais e 
+ da Privacidade:
+(Includo pela 
+ Lei n 13.853, de 2019)
+I - propor diretrizes estratgicas e fornecer subsdios para a 
+ elaborao da Poltica Nacional de Proteo de Dados Pessoais e da 
+ Privacidade e para a atuao da ANPD;
+(Includo pela 
+ Lei n 13.853, de 2019)
+II - elaborar relatrios anuais de avaliao da execuo das aes da 
+ Poltica Nacional de Proteo de Dados Pessoais e da Privacidade;
+(Includo pela 
+ Lei n 13.853, de 2019)
+III - sugerir aes a serem realizadas pela ANPD;
+(Includo pela 
+ Lei n 13.853, de 2019)
+IV - elaborar estudos e realizar debates e audincias pblicas sobre a 
+ proteo de dados pessoais e da privacidade; e
+(Includo pela 
+ Lei n 13.853, de 2019)
+V - disseminar o conhecimento sobre a proteo de dados pessoais e da 
+ privacidade populao.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Art. 59. (VETADO).
+CAPTULO X
+DISPOSIES FINAIS E TRANSITRIAS
+Art. 60. A
+Lei n 12.965, de 23 de abril de 2014 (Marco Civil da Internet)
+, passa a vigorar com as seguintes alteraes:
+Vigncia
+“Art. 7 ..................................................................
+.......................................................................................
+X -
+excluso definitiva dos dados pessoais que tiver fornecido a determinada aplicao de internet, a seu requerimento, ao trmino da relao entre as partes, ressalvadas as hipteses de guarda obrigatria de registros previstas nesta Lei e na que dispe sobre a proteo de dados pessoais;
+..............................................................................” (NR)
+“Art. 16. .................................................................
+.......................................................................................
+II -
+de dados pessoais que sejam excessivos em relao finalidade para a qual foi dado consentimento pelo seu titular, exceto nas hipteses previstas na Lei que dispe sobre a proteo de dados pessoais.” (NR)
+Art. 61. A empresa estrangeira ser notificada e intimada de todos os atos processuais previstos nesta Lei, independentemente de procurao ou de disposio contratual ou estatutria, na pessoa do agente ou representante ou pessoa responsvel por sua filial, agncia, sucursal, estabelecimento ou escritrio instalado no Brasil.
+Art. 62. A autoridade nacional e o Instituto Nacional de Estudos e Pesquisas Educacionais Ansio Teixeira (Inep), no mbito de suas competncias, editaro regulamentos especficos para o acesso a dados tratados pela Unio para o cumprimento do disposto no
+2 do art. 9 da Lei n 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educao Nacional)
+, e aos referentes ao Sistema Nacional de Avaliao da Educao Superior (Sinaes), de que trata a
+Lei n 10.861, de 14 de abril de 2004
+.
+Art. 63. A autoridade nacional estabelecer normas sobre a adequao progressiva de bancos de dados constitudos at a data de entrada em vigor desta Lei, consideradas a complexidade das operaes de tratamento e a natureza dos dados.
+Art. 64. Os direitos e princpios expressos nesta Lei no excluem outros previstos no ordenamento jurdico ptrio relacionados matria ou nos tratados internacionais em que a Repblica Federativa do Brasil seja parte.
+Art. 65. Esta Lei entra em vigor:
+(Redao dada pela 
+ Lei n 13.853, de 2019)
+I - dia 28 de dezembro de 2018, quanto aos arts. 55-A, 55-B, 55-C, 55-D, 
+ 55-E, 55-F, 55-G, 55-H, 55-I, 55-J, 55-K, 55-L, 58-A e 58-B; e
+(Includo pela 
+ Lei n 13.853, de 2019)
+I-A dia 1 de agosto de 2021, quanto aos arts. 52, 53 e 
+ 54;
+(Includo pela Lei n 14.010, de 2020)
+(Convertida na Lei 
+ n 14.058, de 2020)
+II - 24 (vinte e quatro) meses aps a data de sua publicao, quanto aos 
+ demais artigos.
+(Includo pela 
+ Lei n 13.853, de 2019)
+Braslia
+, 14 de agosto de 2018; 197 da Independncia e 130 da Repblica.
+MICHEL TEMER
+Torquato Jardim
+Aloysio Nunes Ferreira Filho
+Eduardo Refinetti Guardia
+Esteves Pedro Colnago Junior
+Gilberto Magalhes Occhi
+Gilberto Kassab
+Wagner de Campos Rosrio
+Gustavo do Vale Rocha
+Ilan Goldfajn
+Raul Jungmann
+Eliseu Padilha
+Este texto no substitui o publicado no DOU de 15.8.2018, e
+republicado parcialmente em 15.8.2018 - Edio extra
+*

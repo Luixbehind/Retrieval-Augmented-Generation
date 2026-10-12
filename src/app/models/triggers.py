@@ -44,17 +44,6 @@ FOR EACH ROW EXECUTE FUNCTION update_tsv();
 )
 
 
-documents_updated_at_trigger = PGTrigger(
-    schema="public",
-    signature="trg_documents_updated_at",
-    on_entity="public.documents",
-    definition="""
-BEFORE UPDATE ON documents
-FOR EACH ROW EXECUTE FUNCTION set_updated_at();
-""",
-)
-
-
 legal_documents_updated_at_trigger = PGTrigger(
     schema="public",
     signature="trg_legal_documents_updated_at",
@@ -72,17 +61,6 @@ legal_chunks_updated_at_trigger = PGTrigger(
     on_entity="public.legal_chunks",
     definition="""
 BEFORE UPDATE ON legal_chunks
-FOR EACH ROW EXECUTE FUNCTION set_updated_at();
-""",
-)
-
-
-knowledge_documents_updated_at_trigger = PGTrigger(
-    schema="public",
-    signature="trg_knowledge_documents_updated_at",
-    on_entity="public.knowledge_documents",
-    definition="""
-BEFORE UPDATE ON knowledge_documents
 FOR EACH ROW EXECUTE FUNCTION set_updated_at();
 """,
 )
@@ -109,9 +87,7 @@ DB_TRIGGER_ENTITIES = [
     update_tsv_fn,
     set_updated_at_fn,
     tsv_legal_update_trigger,
-    documents_updated_at_trigger,
     legal_documents_updated_at_trigger,
     legal_chunks_updated_at_trigger,
-    knowledge_documents_updated_at_trigger,
     rag_queries_updated_at_trigger,
 ]

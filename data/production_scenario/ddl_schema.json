@@ -1,0 +1,143 @@
+[
+  {
+    "table": "users",
+    "columns": [
+      { "name": "id", "type": "uuid" },
+      { "name": "role", "type": "user_role_enum" },
+      { "name": "full_name", "type": "text" },
+      { "name": "cpf", "type": "varchar(11)" },
+      { "name": "email", "type": "citext" },
+      { "name": "phone", "type": "varchar(20)" },
+      { "name": "password_hash", "type": "text" },
+      { "name": "password_reset_token", "type": "text" },
+      { "name": "birth_date", "type": "date" },
+      { "name": "gender", "type": "varchar(30)" },
+      { "name": "mother_full_name", "type": "text" },
+      { "name": "marketing_opt_in", "type": "boolean" },
+      { "name": "is_active", "type": "boolean" },
+      { "name": "created_at", "type": "timestamptz" },
+      { "name": "updated_at", "type": "timestamptz" },
+      { "name": "deleted_at", "type": "timestamptz" }
+    ]
+  },
+  {
+    "table": "doctors",
+    "columns": [
+      { "name": "id", "type": "uuid" },
+      { "name": "user_id", "type": "uuid" },
+      { "name": "crm_number", "type": "varchar(20)" },
+      { "name": "crm_state", "type": "char(2)" },
+      { "name": "specialty", "type": "text" },
+      { "name": "signature_image_url", "type": "text" },
+      { "name": "created_at", "type": "timestamptz" }
+    ]
+  },
+  {
+    "table": "patient_health_profiles",
+    "columns": [
+      { "name": "id", "type": "uuid" },
+      { "name": "user_id", "type": "uuid" },
+      { "name": "blood_type", "type": "varchar(3)" },
+      { "name": "chronic_conditions", "type": "text" },
+      { "name": "current_medications", "type": "text" },
+      { "name": "allergies", "type": "text" },
+      { "name": "mental_health_notes", "type": "text" },
+      { "name": "height_cm", "type": "smallint" },
+      { "name": "weight_kg", "type": "numeric(5,2)" },
+      { "name": "created_at", "type": "timestamptz" },
+      { "name": "updated_at", "type": "timestamptz" }
+    ]
+  },
+  {
+    "table": "appointments",
+    "columns": [
+      { "name": "id", "type": "uuid" },
+      { "name": "patient_id", "type": "uuid" },
+      { "name": "doctor_id", "type": "uuid" },
+      { "name": "status", "type": "appointment_status_enum" },
+      { "name": "scheduled_at", "type": "timestamptz" },
+      { "name": "started_at", "type": "timestamptz" },
+      { "name": "ended_at", "type": "timestamptz" },
+      { "name": "video_room_url", "type": "text" },
+      { "name": "price_cents", "type": "integer" },
+      { "name": "created_at", "type": "timestamptz" }
+    ]
+  },
+  {
+    "table": "consultation_records",
+    "columns": [
+      { "name": "id", "type": "uuid" },
+      { "name": "appointment_id", "type": "uuid" },
+      { "name": "symptoms", "type": "text" },
+      { "name": "diagnosis_notes", "type": "text" },
+      { "name": "prescribed_medications", "type": "text" },
+      { "name": "icd10_codes", "type": "text[]" },
+      { "name": "recording_url", "type": "text" },
+      { "name": "transcription_text", "type": "text" },
+      { "name": "created_at", "type": "timestamptz" }
+    ]
+  },
+  {
+    "table": "consent_records",
+    "columns": [
+      { "name": "id", "type": "uuid" },
+      { "name": "user_id", "type": "uuid" },
+      { "name": "scope", "type": "consent_scope_enum" },
+      { "name": "granted", "type": "boolean" },
+      { "name": "ip_address", "type": "inet" },
+      { "name": "user_agent", "type": "text" },
+      { "name": "collected_at", "type": "timestamptz" },
+      { "name": "revoked_at", "type": "timestamptz" }
+    ]
+  },
+  {
+    "table": "payments",
+    "columns": [
+      { "name": "id", "type": "uuid" },
+      { "name": "appointment_id", "type": "uuid" },
+      { "name": "user_id", "type": "uuid" },
+      { "name": "amount_cents", "type": "integer" },
+      { "name": "payment_method", "type": "varchar(20)" },
+      { "name": "card_last_four", "type": "char(4)" },
+      { "name": "card_brand", "type": "varchar(20)" },
+      { "name": "gateway_transaction_id", "type": "text" },
+      { "name": "status", "type": "varchar(20)" },
+      { "name": "created_at", "type": "timestamptz" }
+    ]
+  },
+  {
+    "table": "third_party_data_shares",
+    "columns": [
+      { "name": "id", "type": "uuid" },
+      { "name": "user_id", "type": "uuid" },
+      { "name": "partner_name", "type": "text" },
+      { "name": "data_categories", "type": "text[]" },
+      { "name": "purpose", "type": "text" },
+      { "name": "shared_at", "type": "timestamptz" }
+    ]
+  },
+  {
+    "table": "audit_logs",
+    "columns": [
+      { "name": "id", "type": "bigserial" },
+      { "name": "actor_user_id", "type": "uuid" },
+      { "name": "action", "type": "varchar(50)" },
+      { "name": "entity_table", "type": "varchar(100)" },
+      { "name": "entity_id", "type": "uuid" },
+      { "name": "ip_address", "type": "inet" },
+      { "name": "created_at", "type": "timestamptz" }
+    ]
+  },
+  {
+    "table": "data_subject_requests",
+    "columns": [
+      { "name": "id", "type": "uuid" },
+      { "name": "user_id", "type": "uuid" },
+      { "name": "request_type", "type": "varchar(30)" },
+      { "name": "status", "type": "varchar(20)" },
+      { "name": "requested_at", "type": "timestamptz" },
+      { "name": "resolved_at", "type": "timestamptz" },
+      { "name": "resolution_notes", "type": "text" }
+    ]
+  }
+]

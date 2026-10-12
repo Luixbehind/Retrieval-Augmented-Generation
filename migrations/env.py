@@ -22,10 +22,14 @@ register_entities(DB_TRIGGER_ENTITIES)
 
 config = context.config
 if config.config_file_name is not None:
-    fileConfig(config.config_file_name)
+    # disable_existing_loggers=False: this env.py can run in-process (tenant provisioning
+    # calls alembic.command.upgrade from within the running FastAPI app), and fileConfig's
+    # default would otherwise silently kill uvicorn's and the app's loggers for the rest
+    # of the process lifetime.
+    fileConfig(config.config_file_name, disable_existing_loggers=False)
 
 target_metadata = Base.metadata
-db_url = settings.get_database_url()
+db_url = config.attributes.get("engine_url") or settings.get_database_url()
 
 
 def run_migrations_offline() -> None:
